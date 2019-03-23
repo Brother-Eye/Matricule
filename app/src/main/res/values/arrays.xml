@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cursos">
+        <item>@string/SI</item>
+        <item>@string/JD</item>
+        <item>@string/BD</item>
+        <item>@string/ADM</item>
+        <item>@string/TI</item>
+    </string-array>
+</resources>

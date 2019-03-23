@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Matricule</string>
+    <string name="SI">Sistemas da Informação</string>
+    <string name="JD">Jogos Digitais</string>
+    <string name="BD">Banco de Dados</string>
+    <string name="ADM">Administração</string>
+    <string name="TI">Tecnologia da Informação</string>
+</resources>
